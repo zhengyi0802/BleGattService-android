@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Wed Jun 14 15:31:26 CST 2017
+2.base=/opt/Android/Projects/BleGattService/app/build/intermediates/res/resources-debug.ap_
+5.file=/opt/Android/Projects/BleGattService/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=/opt/Android/Projects/BleGattService/app/build/intermediates/res/resources-debug.ap_
+6.file=/opt/Android/Projects/BleGattService/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+2.set=ANDROID_RESOURCE
+4.base=/opt/Android/Projects/BleGattService/app/build/intermediates/res/resources-debug.ap_
+7.file=/opt/Android/Projects/BleGattService/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=9
+0.file=/opt/Android/Projects/BleGattService/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.base=/opt/Android/Projects/BleGattService/app/build/intermediates/res/resources-debug.ap_
+8.file=/opt/Android/Projects/BleGattService/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+4.set=ANDROID_RESOURCE
+6.base=/opt/Android/Projects/BleGattService/app/build/intermediates/res/resources-debug.ap_
+1.file=/opt/Android/Projects/BleGattService/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+1.set=ANDROID_RESOURCE
+7.base=/opt/Android/Projects/BleGattService/app/build/intermediates/res/resources-debug.ap_
+2.file=/opt/Android/Projects/BleGattService/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=/opt/Android/Projects/BleGattService/app/build/intermediates/res/resources-debug.ap_
+8.base=/opt/Android/Projects/BleGattService/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+3.file=/opt/Android/Projects/BleGattService/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/opt/Android/Projects/BleGattService/app/build/intermediates/res/resources-debug.ap_
+4.file=/opt/Android/Projects/BleGattService/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+8.set=DEX
+0.set=ANDROID_RESOURCE

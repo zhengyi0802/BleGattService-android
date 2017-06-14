@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml
+		INJECTED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml
+		INJECTED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml
+		INJECTED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml
+		INJECTED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml
+		INJECTED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml
+application
+ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:11:5-25:19
+	android:label
+		ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:15:9-40
+service#com.example.blegattservice.BluetoothLeService
+ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:16:9-23:13
+	android:enabled
+		ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:17:16-38
+	android:exported
+		ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:18:16-39
+	android:name
+		ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:16:18-52
+action#android.intent.action.MAIN
+ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:19:4-56
+	android:name
+		ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:19:12-53
+action#com.example.blegattservice.ACTION.BLESCANDEVICE
+ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:20:13-89
+	android:name
+		ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:20:22-86
+action#com.example.blegattservice.ACTION.BLEGATTCLIENT
+ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:21:13-89
+	android:name
+		ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:21:22-86
+category#android.intent.category.LAUNCHER
+ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /opt/Android/Projects/BleGattService/app/src/main/AndroidManifest.xml:22:23-70

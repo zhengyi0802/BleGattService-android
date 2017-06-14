@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/opt/Android/Projects/BleGattService/app/src/main/assets"/><source path="/opt/Android/Projects/BleGattService/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/opt/Android/Projects/BleGattService/app/src/debug/assets"/></dataSet></merger>
